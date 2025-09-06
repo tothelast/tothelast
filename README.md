@@ -2,6 +2,9 @@
 <h3 align="center">AI & Robotics Researcher | Software Engineer</h3>
 
 <p align="center">
+    <a href="https://gareginmazmanyan.com/">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white" />
+    </a>
     <a href="https://www.linkedin.com/in/gareginma/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
     </a>
