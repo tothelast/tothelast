@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Garegin Mazmanyan</h1>
+<h1 align="center">Garegin Mazmanyan</h1>
 <h3 align="center">AI & Robotics Researcher | Software Engineer</h3>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 - 🎓 Master's Student in **Computer Science** at the **University of Arizona** (Graduating May 2026)  
 - 🤖 Research Assistant in the **Engineering Robotics Lab** – specializing in **ROS2 autonomy, Vision-Language-Action (VLA) models, and swarm robotics**  
 - 🛠️ Industry experience with **AWS pipelines, CI/CD, and cloud-based vision analytics**  
@@ -24,7 +24,7 @@
 
 ---
 
-### 🧩 Skills & Tools
+### Skills & Tools
 
 **AI / ML**  
 `PyTorch` · `TensorFlow` · `Transformers` · `Vision-Language Models` · `End-to-End Learning` · `SLAM`
@@ -45,4 +45,4 @@
 
 ---
 
-⭐️ From [Garegin Mazmanyan](https://github.com/tothelast)
+From [Garegin Mazmanyan](https://github.com/tothelast)
