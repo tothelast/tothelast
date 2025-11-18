@@ -17,31 +17,10 @@
 ---
 
 ### About Me
-- 🎓 Master's Student in **Computer Science** at the **University of Arizona** (Graduating May 2026)  
-- 🤖 Research Assistant in the **Engineering Robotics Lab** – specializing in **ROS2 autonomy, Vision-Language-Action (VLA) models, and swarm robotics**  
-- 🛠️ Industry experience with **AWS pipelines, CI/CD, and cloud-based vision analytics**  
-- 🌱 Passionate about **building safe, reliable, and intelligent robotic systems for real-world environments**
-
----
-
-### Skills & Tools
-
-**AI / ML**  
-`PyTorch` · `TensorFlow` · `Transformers` · `Vision-Language Models` · `End-to-End Learning` · `SLAM`
-
-**Robotics**  
-`ROS2` · `Quanser QCar2` · `Crazyswarm2` · `Vicon` · `Autonomy & Control`
-
-**Dev Tools**  
-`Python` · `C/C++` · `Docker` · `Git` · `AWS` · `MLflow` · `ONNX` · `Weights & Biases`
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tothelast&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tothelast&layout=compact" alt="Top Languages" height="165"/>
-</p>
+- Master's Student in **Computer Science** at the **University of Arizona** (Graduating May 2026)  
+- Research Assistant in the **Engineering Robotics Lab** – specializing in **ROS2 autonomy, Vision-Language-Action (VLA) models, and swarm robotics**  
+- Industry experience with **AWS pipelines, CI/CD, and cloud-based vision analytics**  
+- Passionate about **building safe, reliable, and intelligent robotic systems for real-world environments**
 
 ---
 
