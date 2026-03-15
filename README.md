@@ -1,5 +1,5 @@
 <h1 align="center">Garegin Mazmanyan</h1>
-<h3 align="center">AI & Robotics Researcher | Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
     <a href="https://gareginmazmanyan.com/">
